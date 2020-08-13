@@ -1,6 +1,7 @@
 {
     "name": "APOV",
     "short_name": "apov",
+    "description": "Associação Assistencial e Promocional da Pastoral da Oração de Viçosa",
     "icons": [{
         "src": "/img/android-chrome-192x192.png",
         "sizes": "192x192",
